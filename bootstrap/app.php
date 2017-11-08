@@ -15,6 +15,12 @@ $app = new Illuminate\Foundation\Application(
     realpath(__DIR__.'/../')
 );
 
+
+/*
+|不同的环境使用不同数据库
+*/
+require __DIR__.'/helpers.php';
+
 /*
 |--------------------------------------------------------------------------
 | Bind Important Interfaces
