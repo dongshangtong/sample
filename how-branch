@@ -1,0 +1,77 @@
+* [33mcommit ef1cca1acf537e5136dc0213f4504df0f43043b7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: dongshangtong <dongshangtong@163.com>
+[31m|[m Date:   Thu Nov 9 06:56:05 2017 +0000
+[31m|[m 
+[31m|[m     add use Auth
+[31m|[m  
+* [33mcommit 08f0c99e53c0844525e403b0be72333ff036cc50[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32muser-crud[m[33m, [m[1;32mlogin-logout[m[33m)[m
+[31m|[m Author: dongshangtong <dongshangtong@163.com>
+[31m|[m Date:   Wed Nov 8 16:11:08 2017 +0000
+[31m|[m 
+[31m|[m     Finish login and logout
+[31m|[m  
+* [33mcommit aa9e097d1493beabb0dea1002bc3c2fa6a8a395d[m
+[31m|[m Author: dongshangtong <dongshangtong@163.com>
+[31m|[m Date:   Wed Nov 8 09:52:37 2017 +0000
+[31m|[m 
+[31m|[m     config/database.php to db-config
+[31m|[m  
+* [33mcommit a79a01a8b9c79ecbc074b2ab6bfc9038cb2d7413[m
+[31m|[m Author: dongshangtong <dongshangtong@163.com>
+[31m|[m Date:   Wed Nov 8 09:44:56 2017 +0000
+[31m|[m 
+[31m|[m     modified config/database.php
+[31m|[m  
+* [33mcommit 7906cf2df7763a7546d2c4d259bf6cc5b2bff843[m
+[31m|[m Author: dongshangtong <dongshangtong@163.com>
+[31m|[m Date:   Wed Nov 8 09:35:19 2017 +0000
+[31m|[m 
+[31m|[m     Updated database configuration
+[31m|[m  
+* [33mcommit 6b507520ceb7d0a00aae660ab3e33d14ad59dd37[m[33m ([m[1;32msign-up[m[33m)[m
+[31m|[m Author: dongshangtong <dongshangtong@163.com>
+[31m|[m Date:   Wed Nov 8 09:02:14 2017 +0000
+[31m|[m 
+[31m|[m     Finish user signup
+[31m|[m  
+* [33mcommit 1fab602538e0acfb1103664acb304d37ed8e9a14[m[33m ([m[1;32mmodeling-users[m[33m)[m
+[31m|[m Author: dongshangtong <dongshangtong@163.com>
+[31m|[m Date:   Wed Nov 8 06:15:05 2017 +0000
+[31m|[m 
+[31m|[m     modified user model to models folder
+[31m|[m  
+* [33mcommit 64fecb05ab803b7eba7abd3e1b9ff9cb8113e68c[m
+[31m|[m Author: dongshangtong <dongshangtong@163.com>
+[31m|[m Date:   Wed Nov 8 05:09:32 2017 +0000
+[31m|[m 
+[31m|[m     Move user model to models folder
+[31m|[m  
+* [33mcommit 5d5bb6e084af634f1ba0b945d4a2bab13537d2ac[m[33m ([m[1;32mfilling-layout-style[m[33m)[m
+[31m|[m Author: dongshangtong <dongshangtong@163.com>
+[31m|[m Date:   Wed Nov 8 03:35:30 2017 +0000
+[31m|[m 
+[31m|[m     Finish layout and routes
+[31m|[m  
+* [33mcommit 8b9d5560dbfaa90522375f9709c3e94a81adbbc9[m[33m ([m[1;32mstatic-pages[m[33m)[m
+[31m|[m Author: dongshangtong <dongshangtong@163.com>
+[31m|[m Date:   Tue Nov 7 16:45:55 2017 +0000
+[31m|[m 
+[31m|[m     Finish static pages
+[31m|[m  
+* [33mcommit 6cbc404cfb3e92d0f39ea06d23a7bfd3e5dca58b[m
+[31m|[m Author: dongshangtong <dongshangtong@163.com>
+[31m|[m Date:   Tue Nov 7 15:36:30 2017 +0000
+[31m|[m 
+[31m|[m     Add .editorconfig
+[31m|[m  
+* [33mcommit 54ac55482a37d8c8f50aeda275f7c08fa8de900f[m
+[31m|[m Author: dongshangtong <dongshangtong@163.com>
+[31m|[m Date:   Tue Nov 7 15:02:25 2017 +0000
+[31m|[m 
+[31m|[m     Procfile for Heroku
+[31m|[m  
+* [33mcommit adf1796ecb38329d3dc19c8bdd2852e0358984c8[m
+  Author: dongshangtong <dongshangtong@163.com>
+  Date:   Tue Nov 7 14:52:02 2017 +0000
+  
+      Initial commit
