@@ -63,7 +63,7 @@ class UsersController extends Controller
         }
 
         public function update(User $user, Request $request)
-    {
+        {
         $this->validate($request, [
             'name' => 'required|max:50',
             'password' => 'nullable|confirmed|min:6'
@@ -81,5 +81,13 @@ class UsersController extends Controller
         return redirect()->route('users.show', $user->id);
     }
 
+
+    public function destroy(User $user)
+     {
+         $this->authorize('destroy', $user);
+       $user->delete();
+       session()->flash('success', '成功删除用户！');
+       return back();
+     }
 
 }
